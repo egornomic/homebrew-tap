@@ -6,10 +6,10 @@ class Cage < Formula
 
   def install
     bin.install "cage"
-    (share/"cage/template").install Dir["template/*"]
+    (pkgshare/"template").install Dir["template/*"]
   end
 
   test do
-    system "#{bin}/cage", "help"
+    system bin/"cage", "help"
   end
 end
