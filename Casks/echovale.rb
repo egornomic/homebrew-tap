@@ -1,6 +1,6 @@
 cask "echovale" do
-  version "0.3.0"
-  sha256 "1dba81ca55248d794055af168788db957b431e53f0828567942d606953aa7138"
+  version "0.3.1"
+  sha256 "765ec118d1641179859ceb9c481cf2ce43514b0093ced9d405e905c737948786"
 
   url "https://github.com/egornomic/echovale/releases/download/v#{version}/echovale-#{version}-arm64.dmg"
   name "echovale"
