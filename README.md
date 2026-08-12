@@ -6,6 +6,5 @@ Homebrew formulae and casks maintained by Egor.
 
 ```bash
 brew install egornomic/tap/cage
-brew install --cask egornomic/tap/echovale
+brew install --cask egornomic/tap/feedfold
 ```
-
