@@ -1,6 +1,6 @@
 cask "feedfold" do
-  version "0.4.2"
-  sha256 "8d604613fe53953f1abb854d8ceeffd5cf14fde36c2ce1e7af90cad2554a8b41"
+  version "0.4.3"
+  sha256 "d790e6606de3ae542ba602ed4258779c5497d6e8fbc91654ab33eab95b5414e8"
 
   url "https://github.com/egornomic/feedfold/releases/download/v#{version}/feedfold-#{version}-arm64.dmg"
   name "feedfold"
